@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dev-AdriGR
+- 👋 Hi, I’m @adezdev
 - 
 - Data Analyst | Computer Science | Esports Enjoyer
 - Contact DMs or: dev.adriangr@gmail.com
